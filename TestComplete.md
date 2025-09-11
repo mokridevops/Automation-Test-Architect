@@ -16,7 +16,28 @@ TestComplete - automate functional mobile tests, quick and easy, no scripting kn
 
 TestComplete - can create automated tests for IOS and andriod applications, running on devices managed by Appium.
 
-Appium - is an open source framework - for creating automated testcases for mobile applications.  It allows managing mobile devices and running automated scripts on them.   Instead of purchasing mobile devices, annulators, simulators 
-
 With TestComplete - you can automate - functional mobile tests
+
+Appium - is an open source framework - for creating automated testcases for mobile applications.  It allows managing mobile devices and running automated scripts on them.   Instead of purchasing mobile devices, or configuring annulators, simulators and setting up Appium yourslef, you can use one of third pary providers that provide access to their appium based mobile resources for reasonable price.
+
+# Smart Bear BitBar:
+
+
+<img width="1651" height="882" alt="image" src="https://github.com/user-attachments/assets/97c96a87-f8bf-4665-b932-8206f706fc73" />
+
+
+BitBar: is a cloud based mobile testing solutions by SmartBear
+
+
+<img width="1883" height="988" alt="image" src="https://github.com/user-attachments/assets/c0bc37f9-9c44-49f0-ac7d-35288fd8c026" />
+
+it provides access to multiple real devices, and it integrates tightly with TestComplete
+
+ <img width="1827" height="948" alt="image" src="https://github.com/user-attachments/assets/06e81cf3-673d-4dfc-97ea-27a6fd367974" />
+
+ 
+
+
+
+
 
